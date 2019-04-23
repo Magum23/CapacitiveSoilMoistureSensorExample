@@ -1,6 +1,7 @@
 int moisture;
 const int sensor = A0;
 
+//You can buy this sensor from http://s.click.aliexpress.com/e/cqC7IKnq
 //Dry [520 - 430]
 //Wet [430 - 350]
 //Water [350 - 260]
